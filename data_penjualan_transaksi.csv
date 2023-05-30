@@ -1,0 +1,7 @@
+tanggal_transaksi,nama_produk,jumlah_produk,harga_satuan,total_harga
+2023-05-01,Produk A,5,100000,500000
+2023-05-02,Produk B,3,75000,225000
+2023-05-03,Produk C,2,50000,100000
+2023-05-04,Produk A,4,100000,400000
+2023-05-05,Produk B,6,75000,450000
+
