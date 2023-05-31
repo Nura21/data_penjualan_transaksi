@@ -1,8 +1,6 @@
 import csv
 
-
 # TOTAL PENJUALAN
-
 total_penjualan = 0
 
 # Baca file CSV
@@ -19,7 +17,6 @@ print("Total Penjualan: ", total_penjualan, "\n\n")
 
 
 # TRANSAKSI PENJUALAN TERTINGGI
-
 penjualan_tertinggi = 0
 transaksi_tertinggi = None
 
@@ -41,8 +38,8 @@ print("Transaksi dengan Penjualan Tertinggi:")
 print(transaksi_tertinggi, "\n\n")
 
 
-# JUMLAH TRANSAKSI
 
+# JUMLAH TRANSAKSI
 jumlah_transaksi = 0
 
 # Baca file CSV
@@ -59,8 +56,9 @@ jumlah_transaksi -= 1
 # Cetak jumlah transaksi
 print("Jumlah Transaksi:", jumlah_transaksi, "\n\n")
 
-# DAFTAR PRODUK YANG TERJUAL
 
+
+# DAFTAR PRODUK YANG TERJUAL
 daftar_produk = []
 
 # Baca file CSV
